@@ -1,7 +1,6 @@
 # 让你的 AI 编程工具学会说真话
 
-> **AICNO = AI Can NO — 敢说不。**
-> 一段 Markdown 配置文件。Claude Code、Cursor、Windsurf、Copilot — 都能用。5 分钟，让 AI 学会说真话。
+> **AI 敢说不。** 一段 Markdown 配置文件。Claude Code、Cursor、Windsurf、Copilot — 都能用。5 分钟，让 AI 学会说真话。
 
 ---
 
@@ -62,8 +61,8 @@
 ### 方式一：直接复制模板
 
 ```bash
-git clone https://github.com/zhangxiaoqiang1991/AICNO.git
-cd AICNO
+git clone https://github.com/zhangxiaoqiang1991/ai-say-no.git
+cd ai-say-no
 # Claude Code 用户
 cp template/CLAUDE.md.template ~/CLAUDE.md
 
