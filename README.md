@@ -62,6 +62,8 @@
 ### 方式一：直接复制模板
 
 ```bash
+git clone https://github.com/zhangxiaoqiang1991/ai-pairing-config.git
+cd ai-pairing-config
 # Claude Code 用户
 cp template/CLAUDE.md.template ~/CLAUDE.md
 
