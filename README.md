@@ -1,7 +1,7 @@
 # 让你的 AI 编程工具学会说真话
 
-> 一段 Markdown 配置文件。Claude Code、Cursor、Windsurf、Copilot — 都能用。
-> 5 分钟，让 AI 从「你说什么都对的乙方」变成「敢跟你碰撞的战友」。
+> **AICNO = AI Can NO — 敢说不。**
+> 一段 Markdown 配置文件。Claude Code、Cursor、Windsurf、Copilot — 都能用。5 分钟，让 AI 学会说真话。
 
 ---
 
@@ -62,8 +62,8 @@
 ### 方式一：直接复制模板
 
 ```bash
-git clone https://github.com/zhangxiaoqiang1991/ai-pairing-config.git
-cd ai-pairing-config
+git clone https://github.com/zhangxiaoqiang1991/AICNO.git
+cd AICNO
 # Claude Code 用户
 cp template/CLAUDE.md.template ~/CLAUDE.md
 
