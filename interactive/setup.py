@@ -33,7 +33,7 @@ QUESTIONS = [
     {
         "id": "name",
         "text": "怎么称呼你？（名字 / 昵称）",
-        "example": "例如：老王、小明、强哥",
+        "example": "例如：老王、小明",
     },
     {
         "id": "background",
